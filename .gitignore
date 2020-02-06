@@ -1,3 +1,4 @@
 out
 .idea
 JavaReview.iml
+src/mysql.properties
